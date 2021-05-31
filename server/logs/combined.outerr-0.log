@@ -1,0 +1,2139 @@
+-------------1
+Your server is running on port 3000.
+(node:6826) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/4.x/docs/connections.html#use-mongo-client
+(node:6826) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Database is connected!
+-------------1
+Your server is running on port 3000.
+(node:10449) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/4.x/docs/connections.html#use-mongo-client
+(node:10449) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Database is connected!
+[0mGET / [33m404 [0m1.997 ms - 139[0m
+[0mGET /api [33m404 [0m3.907 ms - 142[0m
+-------------1
+Your server is running on port 3000.
+(node:10969) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/4.x/docs/connections.html#use-mongo-client
+(node:10969) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+Database is connected!
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m35.424 ms - 7713[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m10.706 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m11.151 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.454 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [32m200 [0m3.133 ms - 990[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.972 ms - -[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.815 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m2.626 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m2.401 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.731 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [32m200 [0m2.088 ms - 990[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.387 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m3.227 ms - -[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.229 ms - -[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m39.997 ms - -[0m
+[0mGET /api/.env [33m404 [0m14.075 ms - 147[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m6.944 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.377 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.362 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.813 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m6.766 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m4.614 ms - 974[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [32m200 [0m2.641 ms - 990[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.913 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.123 ms - -[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.198 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.698 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m3.381 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.334 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.731 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.749 ms - -[0m
+[0mOPTIONS /api/auth/register [32m200 [0m0.980 ms - 4[0m
+[0mPOST /api/auth/register [32m200 [0m7.142 ms - 49[0m
+[0mOPTIONS /api/auth/login [32m200 [0m0.283 ms - 4[0m
+hell---
+[0mPOST /api/auth/login [32m200 [0m41.871 ms - 1371[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.210 ms - -[0m
+[0mOPTIONS /api/getMyExpertsListing/ [32m200 [0m0.421 ms - 4[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m2.211 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.167 ms - -[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m4.552 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.713 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.969 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [32m200 [0m8.496 ms - 771[0m
+[0mGET /api/getComments/Sanjay-Dhiman [32m200 [0m3.099 ms - 26[0m
+[0mGET /api/getComments_changed/Sanjay-Dhiman [33m404 [0m0.328 ms - 176[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.087 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.658 ms - -[0m
+[0mGET /api/getVideoSession/sanjay@rvtechnologies.co.in/viveksingh101994@gmail.com [33m404 [0m0.460 ms - 213[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.334 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m3.168 ms - 74[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m3.767 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m3.060 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m2.871 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.416 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.618 ms - -[0m
+[0mGET /api/auth/logout/607bbb753039292f6322afb2 [33m404 [0m0.323 ms - 179[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.923 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.483 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.621 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.398 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.644 ms - -[0m
+[0mOPTIONS /api/auth/login [32m200 [0m0.309 ms - 4[0m
+hell---
+[0mPOST /api/auth/login [32m200 [0m16.841 ms - 1371[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.932 ms - -[0m
+expert found--
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: {},
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: 607bbb753039292f6322afb2,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      pathsToScopes: {},
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter],
+      '$options': true
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      profileImage: '',
+      profile: [Object],
+      role: 'Expert',
+      stripe: [Object],
+      locationZipcode: '',
+      locationCity: '',
+      locationState: '',
+      locationCountry: '',
+      userBio: '',
+      facebookURL: '',
+      twitterURL: '',
+      instagramURL: '',
+      linkedinURL: '',
+      snapchatURL: '',
+      websiteURL: '',
+      enableAccount: true,
+      accountCreationDate: 2021-03-24T11:53:07.900Z,
+      slug: 'vivek-sing',
+      expertRating: null,
+      expertCategories: [Array],
+      expertRates: [Array],
+      expertFocusExpertise: '',
+      endorsements: [Array],
+      myFavorite: [Array],
+      yearsexpertise: '',
+      fbLoginAccessToken: '',
+      jwtLoginAccessToken: '',
+      videoSessionId: '2_MX40NTgwMTI0Mn5-MTYxODcyMjE2MDIxMH5KbDVUOFNReEMwMUY3ZnVWRldyV0dNeEZ-fg',
+      audioSessionId: '',
+      archiveSessionId: '',
+      stripeId: '',
+      audioCallAvailability: true,
+      videoSessionAvailability: true,
+      expertSessionAvailability: true,
+      isUserJoinVideoSession: false,
+      isDeleted: false,
+      onlineStatus: 'ONLINE',
+      __v: 1,
+      password: '$2a$05$i15CMvwHEf7fR28sJchat.FSNV11p65XqgJGxeHXG864I5eoXhOmK',
+      email: 'viveksingh101994@gmail.com',
+      createdAt: 2021-04-18T04:54:13.163Z,
+      updatedAt: 2021-04-18T05:42:03.781Z,
+      _id: 607bbb753039292f6322afb2
+    },
+    '$init': true
+  }
+]
+[0mGET /api/getExpert/viveksingh101994@gmail.com [32m200 [0m6.576 ms - 1129[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.855 ms - -[0m
+[0mGET /api/getExpertDetail/vivek-sing [32m200 [0m2.683 ms - 892[0m
+expert reviews---
+vivek-sing
+[0mGET /api/getExpertReviews/vivek-sing [32m200 [0m3.108 ms - 25[0m
+[0mGET /api/getComments/vivek-sing [32m200 [0m1.197 ms - 26[0m
+[0mGET /api/getExpertDetail/vivek-sing [36m304 [0m2.336 ms - -[0m
+[0mGET /api/getComments_changed/vivek-sing [33m404 [0m1.839 ms - 173[0m
+[0mGET /api/getExpertDetail/vivek-sing [36m304 [0m1.955 ms - -[0m
+[0mGET /api/getVideoSession/viveksingh101994@gmail.com/viveksingh101994@gmail.com [33m404 [0m0.287 ms - 212[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.263 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.416 ms - 2[0m
+[0mGET /api/getExpertDetail/vivek-sing [36m304 [0m3.774 ms - -[0m
+[0mGET /api/getComments/vivek-sing [36m304 [0m3.423 ms - -[0m
+expert reviews---
+vivek-sing
+[0mGET /api/getExpertReviews/vivek-sing [36m304 [0m1.881 ms - -[0m
+[0mGET /api/getExpertsSubCategoryList/58a6fbfe80b2a0168d3934c3 [32m200 [0m2.808 ms - 502[0m
+[0mGET /api/getExpertsSubCategoryList/58a439bcf7cb4411a3c5dea7 [32m200 [0m1.588 ms - 743[0m
+[0mGET /api/getExpertsSubCategoryList/58db359449642b6ea0901806 [32m200 [0m1.112 ms - 1175[0m
+[0mOPTIONS /api/userExpertUpdate [32m200 [0m0.331 ms - 4[0m
+userExpertUpdate controller
+updated successfully
+[0mPOST /api/userExpertUpdate [32m201 [0m26.677 ms - 1347[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/viveksingh101994-sing [32m200 [0m3.325 ms - 924[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.277 ms - -[0m
+expert reviews---
+viveksingh101994-sing
+[0mGET /api/getExpertReviews/viveksingh101994-sing [32m200 [0m5.545 ms - 25[0m
+[0mGET /api/getComments_changed/viveksingh101994-sing [33m404 [0m1.420 ms - 184[0m
+[0mGET /api/getComments/viveksingh101994-sing [32m200 [0m1.380 ms - 26[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m1.927 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m2.230 ms - -[0m
+[0mGET /api/getVideoSession/viveksingh101994@gmail.com/viveksingh101994@gmail.com [33m404 [0m0.333 ms - 212[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.252 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.319 ms - 2[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m2.224 ms - -[0m
+expert reviews---
+viveksingh101994-sing
+[0mGET /api/getExpertReviews/viveksingh101994-sing [36m304 [0m3.395 ms - -[0m
+[0mGET /api/getComments/viveksingh101994-sing [36m304 [0m2.010 ms - -[0m
+[0mGET /api/getComments/viveksingh101994-sing [36m304 [0m1.698 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.898 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.682 ms - -[0m
+[0mOPTIONS /api/getMyExpertsListing/ [32m200 [0m0.311 ms - 4[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.387 ms - -[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m2.937 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.903 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [32m200 [0m4.174 ms - 771[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.970 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [32m200 [0m1.022 ms - 26[0m
+[0mGET /api/getComments_changed/Sanjay-Dhiman [33m404 [0m0.317 ms - 176[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m8.934 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.983 ms - -[0m
+[0mGET /api/getVideoSession/sanjay@rvtechnologies.co.in/viveksingh101994@gmail.com [33m404 [0m0.311 ms - 213[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.305 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.319 ms - 2[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.083 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m3.461 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m2.326 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.509 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.988 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.604 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m5.538 ms - -[0m
+[0mGET /api/getComments_changed/Sanjay-Dhiman [33m404 [0m0.630 ms - 176[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.579 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.036 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m3.309 ms - -[0m
+[0mGET /api/getVideoSession/sanjay@rvtechnologies.co.in/viveksingh101994@gmail.com [33m404 [0m0.277 ms - 213[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.415 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.429 ms - 2[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.667 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m2.212 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.720 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.339 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.208 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.847 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.910 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m2.846 ms - -[0m
+[0mGET /api/getComments_changed/Sanjay-Dhiman [33m404 [0m0.529 ms - 176[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m2.432 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m8.146 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.914 ms - -[0m
+[0mGET /api/getVideoSession/sanjay@rvtechnologies.co.in/viveksingh101994@gmail.com [33m404 [0m0.267 ms - 213[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.296 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.476 ms - 2[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.492 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m3.446 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.846 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.217 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.243 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.883 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.785 ms - -[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m1.760 ms - -[0m
+[0mGET /api/getComments_changed/Sanjay-Dhiman [33m404 [0m1.353 ms - 176[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m3.288 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.977 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.861 ms - -[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.298 ms - 4[0m
+[0mGET /api/getVideoSession/sanjay@rvtechnologies.co.in/viveksingh101994@gmail.com [33m404 [0m0.318 ms - 213[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.329 ms - 2[0m
+[0mGET /api/getComments/Sanjay-Dhiman [36m304 [0m3.059 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m4.452 ms - -[0m
+expert reviews---
+Sanjay-Dhiman
+[0mGET /api/getExpertReviews/Sanjay-Dhiman [36m304 [0m2.364 ms - -[0m
+[0mGET /api/auth/logout/607bbb753039292f6322afb2 [33m404 [0m0.275 ms - 179[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.468 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.537 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m2.008 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.854 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.809 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.790 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.604 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.328 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.469 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.021 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.770 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.856 ms - -[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m4.836 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.160 ms - 7713[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m3.320 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m4.366 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.779 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting-finance [32m200 [0m3.191 ms - 2[0m
+[0mGET /api/getExpertsListing/accounting-finance [32m200 [0m2.130 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.746 ms - -[0m
+[0mGET /api/getExpertsListing/health-medicine [32m200 [0m2.790 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/health-medicine [32m200 [0m2.349 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.929 ms - -[0m
+[0mGET /api/getExpertsListing/graphic-design [32m200 [0m6.182 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/graphic-design [32m200 [0m5.789 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.587 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/blogging [32m200 [0m2.596 ms - 2[0m
+[0mGET /api/getExpertsListing/blogging [32m200 [0m2.048 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.090 ms - -[0m
+[0mGET /api/getExpertsListing/fashion [32m200 [0m3.166 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/fashion [32m200 [0m2.364 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.954 ms - -[0m
+[0mGET /api/getExpertsListing/billiards [32m200 [0m2.171 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/billiards [32m200 [0m2.900 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.396 ms - -[0m
+[0mGET /api/getExpertsListing/billiards [36m304 [0m2.641 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/billiards [36m304 [0m2.384 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.890 ms - -[0m
+_________________user disconnected_________________
+[0mGET /uploads/1537656806428-JimohDamilola_CV.pdf [33m404 [0m0.274 ms - 181[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.813 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.847 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m1.742 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m3.254 ms - 974[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [32m200 [0m39.977 ms - 990[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m24.369 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.795 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.798 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.692 ms - -[0m
+hell---
+[0mPOST /api/auth/login [32m200 [0m21.479 ms - 1446[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+***********
+***********true
+[0mGET /api/user/607bbb753039292f6322afb2 [32m200 [0m9.377 ms - 564[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.313 ms - -[0m
+***********
+***********true
+[0mGET /api/user/607bbb753039292f6322afb2 [36m304 [0m4.412 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.657 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/french [32m200 [0m1.710 ms - 2[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m1.695 ms - 2[0m
+[0mGET /api/getExpertsListing/french [32m200 [0m1.967 ms - 978[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.270 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [32m200 [0m2.032 ms - 924[0m
+expert reviews---
+viveksingh101994-sing
+[0mGET /api/getExpertReviews/viveksingh101994-sing [32m200 [0m2.304 ms - 25[0m
+[0mGET /api/getComments/viveksingh101994-sing [32m200 [0m1.867 ms - 26[0m
+[0mGET /api/getComments_changed/viveksingh101994-sing [33m404 [0m1.314 ms - 184[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m4.643 ms - -[0m
+[0mGET /api/getVideoSession/viveksingh101994@gmail.com/viveksingh101994@gmail.com [33m404 [0m2.234 ms - 212[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m2.951 ms - 2[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m1.914 ms - -[0m
+expert reviews---
+viveksingh101994-sing
+[0mGET /api/getExpertReviews/viveksingh101994-sing [36m304 [0m3.850 ms - -[0m
+[0mGET /api/getComments/viveksingh101994-sing [36m304 [0m3.351 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m2.395 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/french [36m304 [0m1.398 ms - -[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m4.721 ms - 2[0m
+[0mGET /api/getExpertsListing/french [36m304 [0m2.557 ms - -[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/french [32m200 [0m6.656 ms - 978[0m
+[0mGET /api/getExpertsListing/topRated/french [32m200 [0m6.732 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.153 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [32m200 [0m1.741 ms - 924[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.557 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m2.809 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.417 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m2.094 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/french [36m304 [0m2.290 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/french [36m304 [0m1.431 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.300 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m1.908 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.907 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m2.693 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m3.241 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.652 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/french [36m304 [0m1.724 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/french [36m304 [0m1.759 ms - -[0m
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.163 ms - 7713[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [32m200 [0m3.103 ms - 924[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.852 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m3.855 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m2.217 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.058 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.813 ms - -[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________user disconnected_________________
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.168 ms - 188[0m
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m3.004 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.068 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.888 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.889 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.264 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m2.040 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.228 ms - -[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.257 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.147 ms - 7713[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.328 ms - 157[0m
+[0mGET / [33m404 [0m0.178 ms - 139[0m
+[0mGET /favicon.ico [33m404 [0m0.171 ms - 150[0m
+[0mGET /robots.txt [33m404 [0m0.312 ms - 149[0m
+[0mGET /.well-known/security.txt [33m404 [0m0.205 ms - 163[0m
+[0mHEAD / [33m404 [0m0.360 ms - 140[0m
+[0mGET /system_api.php [33m404 [0m0.174 ms - 153[0m
+[0mGET /system_api.php [33m404 [0m0.170 ms - 153[0m
+[0mGET /c/version.js [33m404 [0m0.168 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404 [0m0.186 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404 [0m0.230 ms - 166[0m
+[0mGET /client_area/ [33m404 [0m0.174 ms - 151[0m
+[0mGET /stalker_portal/c/ [33m404 [0m0.176 ms - 156[0m
+[0mGET /stream/live.php [33m404 [0m0.170 ms - 154[0m
+[0mGET / [33m404 [0m0.243 ms - 139[0m
+[0mGET / [33m404 [0m0.235 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.957 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.234 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/bass [32m200 [0m2.725 ms - 735[0m
+[0mGET /api/getExpertsListing/topRated/bass [32m200 [0m2.871 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.021 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m3.307 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m3.888 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m4.690 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m4.572 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.091 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.698 ms - -[0m
+[0mGET /api/getExpertsListing/fashion [32m200 [0m1.271 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/fashion [32m200 [0m1.264 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.662 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/french [36m304 [0m1.457 ms - -[0m
+[0mGET /api/getExpertsListing/french [36m304 [0m1.342 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.608 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m8.230 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.882 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [36m304 [0m1.717 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.819 ms - -[0m
+[0mGET /api/getExpertsListing/bass [32m200 [0m1.346 ms - 735[0m
+[0mGET /api/getExpertsListing/topRated/bass [32m200 [0m1.368 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.040 ms - -[0m
+[0mGET /api/getExpertDetail/Derrick-Barne2 [32m200 [0m3.415 ms - 829[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.978 ms - -[0m
+[0mGET /api/getExpertDetail/Derrick-Barne2 [36m304 [0m2.965 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.681 ms - -[0m
+[0mGET /api/getExpertStoriesBasedOnRole/computer-skills [32m200 [0m7.550 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.635 ms - -[0m
+[0mGET /api/getExpertStoriesBasedOnRole/academic-tutoring [32m200 [0m1.208 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.740 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/education [32m200 [0m2.317 ms - 2[0m
+[0mGET /api/getExpertsListing/education [32m200 [0m1.308 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.724 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.889 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.334 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.863 ms - 7713[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m5.646 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m11.558 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m7.353 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.078 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.228 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.998 ms - -[0m
+[0mGET /api/getExpertDetail/register [32m200 [0m1.172 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m4.238 ms - -[0m
+[0mGET /api/getExpertDetail/register [36m304 [0m2.198 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m6.749 ms - -[0m
+[0mGET /api/getExpertDetail/register [36m304 [0m7.291 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.605 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.505 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.659 ms - -[0m
+[0mGET /api/getExpertsListing/writing [32m200 [0m1.310 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/writing [32m200 [0m1.593 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.698 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.000 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.344 ms - 157[0m
+[0mGET /uploads/1529099885530-Hector%20Huambo%20-%20Resume.pdf [33m404 [0m3.512 ms - 193[0m
+[0mGET / [33m404 [0m0.243 ms - 139[0m
+[0mGET / [33m404 [0m0.559 ms - 139[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.254 ms - 139[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.266 ms - 139[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m0.248 ms - 157[0m
+[0mGET /uploads/1537656806428-JimohDamilola_CV.pdf [33m404 [0m0.294 ms - 181[0m
+[0mGET / [33m404 [0m0.255 ms - 139[0m
+[0mGET /api/getExpertsCategoryList [32m200 [0m29.685 ms - 7713[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/welder [32m200 [0m4.057 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/basketball [32m200 [0m6.913 ms - 2[0m
+_________________user disconnected_________________
+[0mHEAD / [33m404 [0m0.346 ms - 140[0m
+[0mGET / [33m404 [0m0.187 ms - 139[0m
+[0mGET /favicon.ico [33m404 [0m0.893 ms - 150[0m
+[0mHEAD / [33m404 [0m0.187 ms - 140[0m
+[0mHEAD / [33m404 [0m0.158 ms - 140[0m
+[0mGET / [33m404 [0m0.321 ms - 139[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m2.083 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m28.300 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.285 ms - 139[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET /uploads/1529952871909-Resume%20Vreny%20(musician).pdf [33m404 [0m0.175 ms - 192[0m
+[0mGET /api/v1 [33m404 [0m0.318 ms - 145[0m
+[0mGET / [33m404 [0m0.319 ms - 139[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m0.834 ms - 157[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET /uploads/1537656806428-JimohDamilola_CV.pdf [33m404 [0m0.428 ms - 181[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/gymnastics [32m200 [0m37.768 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/gymnastics [32m200 [0m9.072 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/topRated/graphic-software [32m200 [0m1.715 ms - 2[0m
+[0mGET /api/getExpertsListing/graphic-software [32m200 [0m1.462 ms - 2[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.261 ms - 157[0m
+[0mGET / [33m404 [0m0.400 ms - 139[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET /uploads/1529099885530-Hector%20Huambo%20-%20Resume.pdf [33m404 [0m0.233 ms - 193[0m
+[0mGET / [33m404 [0m0.629 ms - 139[0m
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.167 ms - 188[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m0.287 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m34.988 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.466 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.765 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.918 ms - -[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.463 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/english [32m200 [0m5.385 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/english [32m200 [0m6.794 ms - 2[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsListingByKeyword/s [32m200 [0m4.430 ms - 15687[0m
+[0mGET /api/getExpertsListingByKeyword/ [33m404 [0m0.652 ms - 170[0m
+[0mGET /api/getExpertsListingByKeyword/v [32m200 [0m2.073 ms - 4505[0m
+[0mGET /api/getExpertsListingByKeyword/vi [32m200 [0m1.787 ms - 978[0m
+[0mGET /api/getExpertsListingByKeyword/viv [32m200 [0m1.867 ms - 978[0m
+[0mGET /api/getExpertsListingByKeyword/vive [32m200 [0m1.756 ms - 978[0m
+[0mGET /api/getExpertsListingByKeyword/vivek [32m200 [0m2.057 ms - 978[0m
+[0mGET /api/getExpertsListing/french [32m200 [0m1.898 ms - 978[0m
+[0mGET /api/getExpertsListing/topRated/french [32m200 [0m1.960 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.840 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [32m200 [0m4.599 ms - 924[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.292 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.045 ms - 7713[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.521 ms - 157[0m
+[0mGET / [33m404 [0m0.241 ms - 139[0m
+[0mGET / [33m404 [0m0.190 ms - 139[0m
+[0mGET /uploads/1529952871909-Resume%20Vreny%20(musician).pdf [33m404 [0m0.165 ms - 192[0m
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.268 ms - 188[0m
+[0mGET /api/getExpertsListing/hindi [32m200 [0m3.040 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/bass [32m200 [0m1.880 ms - 2[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.263 ms - 7713[0m
+[0mGET /api/getExpertsListing/mobile%20app%20development [32m200 [0m1.696 ms - 2701[0m
+[0mGET /api/getExpertsListing/topRated/mobile%20app%20development [32m200 [0m1.531 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/trumpet [32m200 [0m1.578 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/basketball [32m200 [0m1.664 ms - 2[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsListing/topRated/health-medicine [32m200 [0m1.600 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/health-medicine [32m200 [0m2.048 ms - 2[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m3.470 ms - 7713[0m
+[0mGET /api/getExpertsListing/blogging [32m200 [0m2.071 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/blogging [32m200 [0m1.378 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.735 ms - -[0m
+[0mGET /api/getExpertsListing/art-media-design [32m200 [0m1.708 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/art-media-design [32m200 [0m1.419 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.825 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/painting [32m200 [0m2.128 ms - 2[0m
+[0mGET /api/getExpertsListing/painting [32m200 [0m1.029 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.633 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.658 ms - -[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.281 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.096 ms - 7713[0m
+[0mGET /api/getExpertsListing/chinese [32m200 [0m1.377 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/chinese [32m200 [0m1.953 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.213 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.623 ms - -[0m
+[0mGET /api/getExpertsListing/basketball [32m200 [0m1.892 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/basketball [32m200 [0m1.563 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.665 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.827 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m4.123 ms - 974[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m3.708 ms - 1829[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.676 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.663 ms - 7713[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.382 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.728 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.926 ms - 7713[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.119 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.815 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.312 ms - 139[0m
+[0mGET / [33m404 [0m0.173 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.099 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.741 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.321 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.705 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/health-medicine [32m200 [0m7.511 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/health-medicine [32m200 [0m3.981 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.932 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.639 ms - 7713[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m1.971 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m2.525 ms - 974[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [32m200 [0m3.216 ms - 990[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.482 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m4.086 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m3.193 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.607 ms - -[0m
+[0mGET /api/getExpertsListing/french [32m200 [0m1.386 ms - 978[0m
+[0mGET /api/getExpertsListing/topRated/french [32m200 [0m1.221 ms - 2[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [32m200 [0m3.174 ms - 924[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.292 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.996 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.339 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.037 ms - 7713[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.467 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.210 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.573 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.778 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.368 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.773 ms - -[0m
+[0mGET /api/getExpertsListing/french [36m304 [0m1.432 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/french [36m304 [0m1.415 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.706 ms - -[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.211 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertStoriesBasedOnRole/creative [32m200 [0m11.512 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m13.206 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.887 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET /uploads/1529952871909-Resume%20Vreny%20(musician).pdf [33m404 [0m0.269 ms - 192[0m
+[0mGET / [33m404 [0m0.247 ms - 139[0m
+[0mHEAD / [33m404 [0m0.269 ms - 140[0m
+[0mGET /system_api.php [33m404 [0m0.231 ms - 153[0m
+[0mGET /system_api.php [33m404 [0m0.236 ms - 153[0m
+[0mGET /c/version.js [33m404 [0m0.222 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404 [0m0.172 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404 [0m0.261 ms - 166[0m
+[0mGET /client_area/ [33m404 [0m0.243 ms - 151[0m
+[0mGET /stalker_portal/c/ [33m404 [0m0.188 ms - 156[0m
+[0mGET /stream/live.php [33m404 [0m0.169 ms - 154[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.385 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.439 ms - -[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.405 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/bass [32m200 [0m5.930 ms - 735[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsListing/hindi [32m200 [0m1.333 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/english [32m200 [0m9.836 ms - 2[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/topRated/bass [32m200 [0m1.894 ms - 2[0m
+[0mGET /api/getExpertsListing/flute [32m200 [0m1.549 ms - 741[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.744 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/fitness-general [32m200 [0m1.653 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/fitness-general [32m200 [0m2.105 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET /uploads/1529099885530-Hector%20Huambo%20-%20Resume.pdf [33m404 [0m1.035 ms - 193[0m
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.021 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.929 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.710 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.767 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.283 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertStoriesBasedOnRole/music-lessons [32m200 [0m1.842 ms - 2[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.070 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.883 ms - -[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/bass [32m200 [0m1.560 ms - 735[0m
+[0mGET /api/getExpertsListing/topRated/basketball [32m200 [0m2.045 ms - 2[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.331 ms - 139[0m
+[0mGET / [33m404 [0m0.222 ms - 139[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m1.562 ms - 157[0m
+[0mGET / [33m404 [0m0.198 ms - 139[0m
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.328 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.380 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET /uploads/1529952871909-Resume%20Vreny%20(musician).pdf [33m404 [0m0.308 ms - 192[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.306 ms - 139[0m
+[0mGET / [33m404 [0m0.213 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.992 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsListing/trumpet [32m200 [0m2.099 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/english [32m200 [0m1.913 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/cement%20masonry [32m200 [0m1.646 ms - 2[0m
+[0mGET /api/getExpertsListing/cement%20masonry [32m200 [0m1.375 ms - 2[0m
+[0mGET /api/getExpertStoriesBasedOnRole/trade-skill [32m200 [0m1.684 ms - 2[0m
+[0mGET / [33m404 [0m0.256 ms - 139[0m
+[0mGET / [33m404 [0m0.154 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.581 ms - -[0m
+[0mGET /api/getExpertStoriesBasedOnRole/academic-tutoring [32m200 [0m1.240 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.719 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.738 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m7.751 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.834 ms - -[0m
+[0mGET /api/getExpertsListing/education [32m200 [0m1.343 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/education [32m200 [0m1.355 ms - 2[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/trumpet [32m200 [0m1.550 ms - 2[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.300 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/topRated/basketball [32m200 [0m4.892 ms - 2[0m
+[0mGET /api/getExpertsListing/motocross [32m200 [0m1.729 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/topRated/guitar [32m200 [0m2.060 ms - 2[0m
+[0mGET /api/getExpertsListing/guitar [32m200 [0m4.007 ms - 1825[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/bobsleigh [32m200 [0m1.241 ms - 2[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsListing/topRated/bullriding [32m200 [0m1.545 ms - 2[0m
+[0mGET /api/getExpertsListing/bullriding [32m200 [0m2.041 ms - 2[0m
+[0mGET /api/getExpertsListing/climbing [32m200 [0m1.562 ms - 2[0m
+[0mGET /api/getExpertsListing/south-america [32m200 [0m1.815 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/south-america [32m200 [0m2.279 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/crane-operator [32m200 [0m1.507 ms - 2[0m
+[0mGET /api/getExpertsListing/crane-operator [32m200 [0m1.454 ms - 2[0m
+[0mGET / [33m404 [0m0.345 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/Christopher-Brown [32m200 [0m6.996 ms - 837[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.171 ms - 139[0m
+[0mGET / [33m404 [0m0.220 ms - 139[0m
+[0mGET /c.tar.gz [33m404 [0m0.297 ms - 147[0m
+[0mGET /e.tar.gz [33m404 [0m0.201 ms - 147[0m
+[0mGET /i.tar.gz [33m404 [0m0.210 ms - 147[0m
+[0mGET /q.tar.gz [33m404 [0m0.230 ms - 147[0m
+[0mGET /t.tar.gz [33m404 [0m0.298 ms - 147[0m
+[0mGET /u.tar.gz [33m404 [0m0.218 ms - 147[0m
+[0mGET /v.tar.gz [33m404 [0m0.252 ms - 147[0m
+[0mGET /w.tar.gz [33m404 [0m1.621 ms - 147[0m
+[0mGET /y.tar.gz [33m404 [0m0.188 ms - 147[0m
+[0mGET /z.tar.gz [33m404 [0m0.205 ms - 147[0m
+[0mGET /0.tar.gz [33m404 [0m0.207 ms - 147[0m
+[0mGET /1.tar.gz [33m404 [0m0.214 ms - 147[0m
+[0mGET /2.tar.gz [33m404 [0m0.213 ms - 147[0m
+[0mGET /3.tar.gz [33m404 [0m0.230 ms - 147[0m
+[0mGET /5.tar.gz [33m404 [0m0.238 ms - 147[0m
+[0mGET /7.tar.gz [33m404 [0m0.253 ms - 147[0m
+[0mGET /8.tar.gz [33m404 [0m0.256 ms - 147[0m
+[0mGET / [33m404 [0m0.272 ms - 139[0m
+[0mGET /favicon.ico [33m404 [0m0.194 ms - 150[0m
+[0mGET / [33m404 [0m0.160 ms - 139[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m22.497 ms - -[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.349 ms - 157[0m
+[0mGET http://proxy.korsangazi.com:80/bc61121a8191137a1f6357ea09cea3d3.html [33m404 [0m0.304 ms - 176[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.759 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/guitar [32m200 [0m5.507 ms - 1825[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.264 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/mandarin-chinese [32m200 [0m1.557 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/mandarin-chinese [32m200 [0m5.172 ms - 2[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.646 ms - 7713[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.734 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.873 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/jogging [32m200 [0m1.985 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/american-football [32m200 [0m2.102 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/american-football [32m200 [0m2.361 ms - 2[0m
+_________________user disconnected_________________
+[0mGET /uploads/1529952871909-Resume%2520Vreny%2520(musician).pdf [33m404 [0m0.231 ms - 196[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m3.358 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m8.121 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.375 ms - 139[0m
+[0mGET /api/getExpertsListing/racquetball [32m200 [0m2.334 ms - 2[0m
+[0mGET /api/getExpertStoriesBasedOnRole/sports-fitness [32m200 [0m4.107 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/english [32m200 [0m1.981 ms - 2[0m
+[0mGET / [33m404 [0m0.196 ms - 139[0m
+[0mGET / [33m404 [0m0.163 ms - 139[0m
+[0mGET /server-status [33m404 [0m0.214 ms - 152[0m
+[0mGET /config.json [33m404 [0m0.178 ms - 150[0m
+[0mGET /.env [33m404 [0m0.207 ms - 143[0m
+[0mGET /.git/config [33m404 [0m0.176 ms - 150[0m
+[0mGET /telescope/requests [33m404 [0m0.230 ms - 157[0m
+[0mGET /v2/_catalog [33m404 [0m0.171 ms - 150[0m
+[0mGET /api/search?folderIds=0 [33m404 [0m0.270 ms - 149[0m
+[0mGET /idx_config/ [33m404 [0m0.174 ms - 150[0m
+[0mGET /info.php [33m404 [0m0.161 ms - 147[0m
+[0mGET /api/search?folderIds=0 [33m404 [0m0.264 ms - 149[0m
+[0mGET /api/getExpertDetail/mohit-rv [32m200 [0m4.967 ms - 1024[0m
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.951 ms - 7713[0m
+[0mGET /api/getExpertsListing/hvac [32m200 [0m1.649 ms - 2[0m
+[0mGET /api/getExpertsListing/curling [32m200 [0m1.406 ms - 2[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.826 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.244 ms - 139[0m
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.158 ms - 188[0m
+[0mGET / [33m404 [0m0.227 ms - 139[0m
+[0mGET / [33m404 [0m0.273 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.804 ms - 7713[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.448 ms - 157[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.327 ms - 139[0m
+[0mGET / [33m404 [0m0.180 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.998 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.174 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.939 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mGET /uploads/1537656806428-JimohDamilola_CV.pdf [33m404 [0m0.250 ms - 181[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m1.367 ms - 157[0m
+[0mGET / [33m404 [0m0.343 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m10.329 ms - 7713[0m
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.339 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.193 ms - 7713[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.876 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.731 ms - 7713[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m4.611 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m20.230 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.764 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.956 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.768 ms - 7713[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m1.523 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m3.012 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.506 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [32m200 [0m4.340 ms - 990[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.234 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.526 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.728 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.494 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.128 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.164 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m1.717 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.328 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.521 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.961 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m3.312 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.547 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.768 ms - -[0m
+_________________user disconnected_________________
+[0mPOST /api/v2/ajax [33m404 [0m0.533 ms - 151[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m3.864 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.873 ms - -[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.818 ms - 7713[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m1.557 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m2.299 ms - 974[0m
+[0mGET /api/getExpertDetail/mohit-rv [32m200 [0m2.194 ms - 1024[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.657 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.394 ms - -[0m
+[0mGET /api/getExpertDetail/mohit-rv [36m304 [0m1.738 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.458 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/badminton [32m200 [0m2.096 ms - 2[0m
+[0mGET /api/getExpertsListing/badminton [32m200 [0m1.751 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.386 ms - -[0m
+[0mGET /api/getExpertsListing/canoeing [32m200 [0m1.555 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/canoeing [32m200 [0m1.677 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.716 ms - -[0m
+[0mGET /api/getExpertsListing/web-development [32m200 [0m1.592 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/web-development [32m200 [0m1.794 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.896 ms - -[0m
+[0mGET /api/getExpertsListing/mobile%20app%20development [32m200 [0m2.543 ms - 2701[0m
+[0mGET /api/getExpertsListing/topRated/mobile%20app%20development [32m200 [0m1.488 ms - 2[0m
+[0mGET /api/getExpertDetail/bucky-roberts [32m200 [0m1.869 ms - 814[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.568 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.003 ms - -[0m
+[0mGET /api/getExpertDetail/bucky-roberts [36m304 [0m2.196 ms - -[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/mobile%20app%20development [36m304 [0m2.511 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/mobile%20app%20development [36m304 [0m2.337 ms - -[0m
+_________________user disconnected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.523 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m3.481 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m3.852 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.072 ms - -[0m
+[0mGET /api/getExpertsListing/bartending [32m200 [0m1.333 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/bartending [32m200 [0m1.272 ms - 2[0m
+[0mOPTIONS /api/auth/register [32m200 [0m0.813 ms - 4[0m
+now, send mail
+in send mail
+[0mPOST /api/auth/register [32m200 [0m66.542 ms - 1267[0m
+Message sent to user: 
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/dftech22 [32m200 [0m2.517 ms - 746[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [32m200 [0m6.656 ms - 25[0m
+[0mGET /api/getComments/dftech22 [32m200 [0m4.088 ms - 26[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.081 ms - -[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m2.618 ms - 171[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.254 ms - 4[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m1.642 ms - 196[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.650 ms - 2[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m2.874 ms - -[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m13.319 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m7.946 ms - -[0m
+[0mOPTIONS /api/user/60922917c61f832ad9558663 [32m200 [0m0.539 ms - 8[0m
+***********
+***********true
+[0mGET /api/user/60922917c61f832ad9558663 [32m200 [0m7.553 ms - 481[0m
+[0mOPTIONS /api/protected [32m200 [0m0.333 ms - 8[0m
+[0mOPTIONS /api/myuserprofile/60922917c61f832ad9558663 [32m200 [0m1.632 ms - 8[0m
+[0mOPTIONS /api/createVideoSession [32m200 [0m0.222 ms - 4[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m3.228 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m3.078 ms - -[0m
+***********
+***********true
+[0mGET /api/protected [32m200 [0m4.429 ms - 53[0m
+***********
+***********true
+dftech22
+[0mGET /api/myuserprofile/60922917c61f832ad9558663 [32m200 [0m9.348 ms - 506[0m
+*************************************
+New opts {
+  mediaMode: 'routed',
+  archiveMode: 'manual',
+  'p2p.preference': 'disabled'
+}
+*************************************
+[0mPOST /api/createVideoSession [0m- [0m- ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+***********
+***********true
+[0mGET /api/protected [36m304 [0m4.321 ms - -[0m
+***********
+***********true
+[0mGET /api/myuserprofile/60922917c61f832ad9558663 [36m304 [0m5.776 ms - -[0m
+[0mGET /uploads/banner-email.jpg [33m404 [0m0.169 ms - 163[0m
+[0mOPTIONS /api/getExpertRecordings [32m200 [0m0.367 ms - 4[0m
+----getExpertRecordings----
+[0mPOST /api/getExpertRecordings [32m200 [0m2.151 ms - 28[0m
+[0mOPTIONS /api/user/60922917c61f832ad9558663 [32m200 [0m0.292 ms - 8[0m
+***********
+***********true
+[0mGET /api/user/60922917c61f832ad9558663 [36m304 [0m4.654 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.839 ms - -[0m
+[0mGET /api/getExpertsListing/graphic-design [32m200 [0m1.423 ms - 2[0m
+[0mOPTIONS /api/getMyExpertsListing/ [32m200 [0m0.327 ms - 4[0m
+[0mGET /api/getExpertsListing/topRated/graphic-design [32m200 [0m3.802 ms - 2[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m1.779 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.941 ms - -[0m
+[0mGET /api/getExpertsListing/business-gurus [32m200 [0m1.387 ms - 2[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m2.516 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/business-gurus [32m200 [0m2.626 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.783 ms - -[0m
+[0mGET /api/getExpertsListing/english [32m200 [0m1.606 ms - 2[0m
+[0mOPTIONS /api/getMyExpertsListing/ [32m200 [0m0.325 ms - 4[0m
+[0mGET /api/getExpertsListing/topRated/english [32m200 [0m1.694 ms - 2[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m1.481 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.785 ms - -[0m
+[0mGET /uploads/banner-email.jpg [33m404 [0m0.211 ms - 163[0m
+[0mGET /uploads/banner-email.jpg [33m404 [0m0.219 ms - 163[0m
+[0mOPTIONS /api/user/60922917c61f832ad9558663 [32m200 [0m0.320 ms - 8[0m
+***********
+***********true
+[0mGET /api/user/60922917c61f832ad9558663 [36m304 [0m4.305 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.804 ms - -[0m
+expert found--
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: {},
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: 60922917c61f832ad9558663,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      pathsToScopes: {},
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter],
+      '$options': true
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      profileImage: '',
+      profile: [Object],
+      role: 'Expert',
+      stripe: [Object],
+      locationZipcode: '',
+      locationCity: '',
+      locationState: '',
+      locationCountry: '',
+      userBio: '',
+      facebookURL: '',
+      twitterURL: '',
+      instagramURL: '',
+      linkedinURL: '',
+      snapchatURL: '',
+      websiteURL: '',
+      enableAccount: true,
+      accountCreationDate: 2021-04-20T11:02:51.303Z,
+      slug: 'dftech22',
+      expertRating: null,
+      expertCategories: [Array],
+      expertRates: [Array],
+      expertFocusExpertise: '',
+      endorsements: [Array],
+      myFavorite: [Array],
+      yearsexpertise: '',
+      fbLoginAccessToken: '',
+      jwtLoginAccessToken: '',
+      videoSessionId: '1_MX40NTgwMTI0Mn5-MTYyMDE5MTUzOTYxNn5tbis1ZFFYZisyKzZkay9vUVZ0V01UaWR-fg',
+      audioSessionId: '',
+      archiveSessionId: '',
+      stripeId: '',
+      audioCallAvailability: true,
+      videoSessionAvailability: true,
+      expertSessionAvailability: true,
+      isUserJoinVideoSession: false,
+      isDeleted: false,
+      __v: 0,
+      password: '$2a$05$V/XMjZ.v.u0ou.ONqJXIbOqq0oXcPf0g9t9Hm7kioZ8xlyzXsuLki',
+      email: 'dftech22@gmail.com',
+      createdAt: 2021-05-05T05:11:51.238Z,
+      updatedAt: 2021-05-05T05:12:19.601Z,
+      _id: 60922917c61f832ad9558663
+    },
+    '$init': true
+  }
+]
+[0mGET /api/getExpert/dftech22@gmail.com [32m200 [0m4.264 ms - 1054[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m0.263 ms - 171[0m
+[0mGET /api/getExpertDetail/dftech22 [32m200 [0m1.924 ms - 817[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertDetail/dftech22 [32m200 [0m4.636 ms - 817[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m4.249 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m2.057 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.741 ms - -[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m6.372 ms - 196[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.280 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.337 ms - 2[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m3.452 ms - -[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m2.920 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m1.860 ms - -[0m
+[0mGET /api/getExpertsSubCategoryList/58a43993f7cb4411a3c5de8a [32m200 [0m1.570 ms - 459[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.038 ms - -[0m
+expert found--
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: {},
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: 60922917c61f832ad9558663,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      pathsToScopes: {},
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter],
+      '$options': true
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      profileImage: '',
+      profile: [Object],
+      role: 'Expert',
+      stripe: [Object],
+      locationZipcode: '',
+      locationCity: '',
+      locationState: '',
+      locationCountry: '',
+      userBio: '',
+      facebookURL: '',
+      twitterURL: '',
+      instagramURL: '',
+      linkedinURL: '',
+      snapchatURL: '',
+      websiteURL: '',
+      enableAccount: true,
+      accountCreationDate: 2021-04-20T11:02:51.303Z,
+      slug: 'dftech22',
+      expertRating: null,
+      expertCategories: [Array],
+      expertRates: [Array],
+      expertFocusExpertise: '',
+      endorsements: [Array],
+      myFavorite: [Array],
+      yearsexpertise: '',
+      fbLoginAccessToken: '',
+      jwtLoginAccessToken: '',
+      videoSessionId: '1_MX40NTgwMTI0Mn5-MTYyMDE5MTUzOTYxNn5tbis1ZFFYZisyKzZkay9vUVZ0V01UaWR-fg',
+      audioSessionId: '',
+      archiveSessionId: '',
+      stripeId: '',
+      audioCallAvailability: true,
+      videoSessionAvailability: true,
+      expertSessionAvailability: true,
+      isUserJoinVideoSession: false,
+      isDeleted: false,
+      __v: 0,
+      password: '$2a$05$V/XMjZ.v.u0ou.ONqJXIbOqq0oXcPf0g9t9Hm7kioZ8xlyzXsuLki',
+      email: 'dftech22@gmail.com',
+      createdAt: 2021-05-05T05:11:51.238Z,
+      updatedAt: 2021-05-05T05:12:19.601Z,
+      _id: 60922917c61f832ad9558663
+    },
+    '$init': true
+  }
+]
+[0mGET /api/getExpert/dftech22@gmail.com [36m304 [0m3.914 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.356 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m4.188 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m30.846 ms - -[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m29.824 ms - 171[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m7.530 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m3.372 ms - -[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m0.261 ms - 196[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.370 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.487 ms - 2[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m4.229 ms - -[0m
+expert reviews---
+dftech22
+[0mGET /api/getComments/dftech22 [36m304 [0m4.838 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m3.071 ms - -[0m
+[0mGET /api/getExpertsSubCategoryList/58a43993f7cb4411a3c5de8a [36m304 [0m1.283 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.943 ms - -[0m
+expert found--
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: {},
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: 60922917c61f832ad9558663,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      pathsToScopes: {},
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter],
+      '$options': true
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      profileImage: '',
+      profile: [Object],
+      role: 'Expert',
+      stripe: [Object],
+      locationZipcode: '',
+      locationCity: '',
+      locationState: '',
+      locationCountry: '',
+      userBio: '',
+      facebookURL: '',
+      twitterURL: '',
+      instagramURL: '',
+      linkedinURL: '',
+      snapchatURL: '',
+      websiteURL: '',
+      enableAccount: true,
+      accountCreationDate: 2021-04-20T11:02:51.303Z,
+      slug: 'dftech22',
+      expertRating: null,
+      expertCategories: [Array],
+      expertRates: [Array],
+      expertFocusExpertise: '',
+      endorsements: [Array],
+      myFavorite: [Array],
+      yearsexpertise: '',
+      fbLoginAccessToken: '',
+      jwtLoginAccessToken: '',
+      videoSessionId: '1_MX40NTgwMTI0Mn5-MTYyMDE5MTUzOTYxNn5tbis1ZFFYZisyKzZkay9vUVZ0V01UaWR-fg',
+      audioSessionId: '',
+      archiveSessionId: '',
+      stripeId: '',
+      audioCallAvailability: true,
+      videoSessionAvailability: true,
+      expertSessionAvailability: true,
+      isUserJoinVideoSession: false,
+      isDeleted: false,
+      __v: 0,
+      password: '$2a$05$V/XMjZ.v.u0ou.ONqJXIbOqq0oXcPf0g9t9Hm7kioZ8xlyzXsuLki',
+      email: 'dftech22@gmail.com',
+      createdAt: 2021-05-05T05:11:51.238Z,
+      updatedAt: 2021-05-05T05:12:19.601Z,
+      _id: 60922917c61f832ad9558663
+    },
+    '$init': true
+  }
+]
+[0mGET /api/getExpert/dftech22@gmail.com [36m304 [0m3.749 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.369 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m4.031 ms - -[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m1.065 ms - 171[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m3.725 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m4.362 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m1.894 ms - -[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m0.244 ms - 196[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.358 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.435 ms - 2[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m4.018 ms - -[0m
+expert reviews---
+dftech22
+[0mGET /api/getComments/dftech22 [36m304 [0m3.729 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m3.461 ms - -[0m
+expert found--
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: {},
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: 60922917c61f832ad9558663,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      pathsToScopes: {},
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter],
+      '$options': true
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      profileImage: '',
+      profile: [Object],
+      role: 'Expert',
+      stripe: [Object],
+      locationZipcode: '',
+      locationCity: '',
+      locationState: '',
+      locationCountry: '',
+      userBio: '',
+      facebookURL: '',
+      twitterURL: '',
+      instagramURL: '',
+      linkedinURL: '',
+      snapchatURL: '',
+      websiteURL: '',
+      enableAccount: true,
+      accountCreationDate: 2021-04-20T11:02:51.303Z,
+      slug: 'dftech22',
+      expertRating: null,
+      expertCategories: [Array],
+      expertRates: [Array],
+      expertFocusExpertise: '',
+      endorsements: [Array],
+      myFavorite: [Array],
+      yearsexpertise: '',
+      fbLoginAccessToken: '',
+      jwtLoginAccessToken: '',
+      videoSessionId: '1_MX40NTgwMTI0Mn5-MTYyMDE5MTUzOTYxNn5tbis1ZFFYZisyKzZkay9vUVZ0V01UaWR-fg',
+      audioSessionId: '',
+      archiveSessionId: '',
+      stripeId: '',
+      audioCallAvailability: true,
+      videoSessionAvailability: true,
+      expertSessionAvailability: true,
+      isUserJoinVideoSession: false,
+      isDeleted: false,
+      __v: 0,
+      password: '$2a$05$V/XMjZ.v.u0ou.ONqJXIbOqq0oXcPf0g9t9Hm7kioZ8xlyzXsuLki',
+      email: 'dftech22@gmail.com',
+      createdAt: 2021-05-05T05:11:51.238Z,
+      updatedAt: 2021-05-05T05:12:19.601Z,
+      _id: 60922917c61f832ad9558663
+    },
+    '$init': true
+  }
+]
+[0mGET /api/getExpert/dftech22@gmail.com [36m304 [0m3.092 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m2.265 ms - -[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m0.406 ms - 171[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m5.433 ms - -[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m3.533 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m4.263 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m1.896 ms - -[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.312 ms - 4[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m2.114 ms - 196[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.339 ms - 2[0m
+expert reviews---
+dftech22
+[0mGET /api/getComments/dftech22 [36m304 [0m4.393 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m7.052 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m3.039 ms - -[0m
+[0mGET /api/getExpertsSubCategoryList/58a439b1f7cb4411a3c5de9d [32m200 [0m1.220 ms - 506[0m
+[0mGET /api/getExpertsSubCategoryList/58a43993f7cb4411a3c5de8a [36m304 [0m1.233 ms - -[0m
+[0mOPTIONS /api/userExpertUpdate [32m200 [0m0.305 ms - 4[0m
+userExpertUpdate controller
+updated successfully
+[0mPOST /api/userExpertUpdate [32m201 [0m15.922 ms - 1253[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.932 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [32m200 [0m20.259 ms - 847[0m
+[0mGET /api/getExpertDetail/dftech22 [32m200 [0m19.978 ms - 847[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m2.206 ms - 171[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m5.360 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m4.490 ms - -[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m0.471 ms - 196[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.292 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.544 ms - 2[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m4.995 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m4.826 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m1.161 ms - -[0m
+expert found--
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: {},
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: 60922917c61f832ad9558663,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      pathsToScopes: {},
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter],
+      '$options': true
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      profileImage: '',
+      profile: [Object],
+      role: 'Expert',
+      stripe: [Object],
+      locationZipcode: '',
+      locationCity: '',
+      locationState: '',
+      locationCountry: '',
+      userBio: '',
+      facebookURL: '',
+      twitterURL: '',
+      instagramURL: '',
+      linkedinURL: '',
+      snapchatURL: '',
+      websiteURL: '',
+      enableAccount: true,
+      accountCreationDate: 2021-04-20T11:02:51.303Z,
+      slug: 'dftech22',
+      expertRating: null,
+      expertCategories: [Array],
+      expertRates: [Array],
+      expertFocusExpertise: '',
+      endorsements: [Array],
+      myFavorite: [Array],
+      yearsexpertise: '',
+      fbLoginAccessToken: '',
+      jwtLoginAccessToken: '',
+      videoSessionId: '1_MX40NTgwMTI0Mn5-MTYyMDE5MTUzOTYxNn5tbis1ZFFYZisyKzZkay9vUVZ0V01UaWR-fg',
+      audioSessionId: '',
+      archiveSessionId: '',
+      stripeId: '',
+      audioCallAvailability: true,
+      videoSessionAvailability: true,
+      expertSessionAvailability: true,
+      isUserJoinVideoSession: false,
+      isDeleted: false,
+      __v: 0,
+      password: '$2a$05$V/XMjZ.v.u0ou.ONqJXIbOqq0oXcPf0g9t9Hm7kioZ8xlyzXsuLki',
+      email: 'dftech22@gmail.com',
+      createdAt: 2021-05-05T05:11:51.238Z,
+      updatedAt: 2021-05-05T05:15:39.280Z,
+      _id: 60922917c61f832ad9558663
+    },
+    '$init': true
+  }
+]
+[0mGET /api/getExpert/dftech22@gmail.com [32m200 [0m2.999 ms - 1084[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.687 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m7.303 ms - -[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m0.556 ms - 171[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m4.614 ms - -[0m
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m5.494 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m2.355 ms - -[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m1.367 ms - 196[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.216 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.409 ms - 2[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m2.312 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m1.362 ms - -[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m1.739 ms - -[0m
+[0mGET /api/getExpertsSubCategoryList/58a43993f7cb4411a3c5de8a [36m304 [0m1.137 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.871 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/swahili [32m200 [0m1.537 ms - 2[0m
+[0mOPTIONS /api/getMyExpertsListing/ [32m200 [0m0.223 ms - 4[0m
+[0mGET /api/getExpertsListing/swahili [32m200 [0m1.103 ms - 2[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m1.546 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.235 ms - -[0m
+[0mGET /api/getExpertsListing/graphic-software [32m200 [0m1.396 ms - 2[0m
+[0mOPTIONS /api/getMyExpertsListing/ [32m200 [0m0.276 ms - 4[0m
+[0mGET /api/getExpertsListing/topRated/graphic-software [32m200 [0m1.377 ms - 2[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m1.420 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.998 ms - -[0m
+[0mOPTIONS /api/user/60922917c61f832ad9558663 [32m200 [0m0.291 ms - 8[0m
+***********
+***********true
+[0mGET /api/user/60922917c61f832ad9558663 [32m200 [0m4.537 ms - 511[0m
+expert found--
+[
+  model {
+    '$__': InternalCache {
+      strictMode: true,
+      selected: {},
+      shardval: undefined,
+      saveError: undefined,
+      validationError: undefined,
+      adhocPaths: undefined,
+      removing: undefined,
+      inserting: undefined,
+      version: undefined,
+      getters: {},
+      _id: 60922917c61f832ad9558663,
+      populate: undefined,
+      populated: undefined,
+      wasPopulated: false,
+      scope: undefined,
+      activePaths: [StateMachine],
+      pathsToScopes: {},
+      ownerDocument: undefined,
+      fullPath: undefined,
+      emitter: [EventEmitter],
+      '$options': true
+    },
+    isNew: false,
+    errors: undefined,
+    _doc: {
+      profileImage: '',
+      profile: [Object],
+      role: 'Expert',
+      stripe: [Object],
+      locationZipcode: '',
+      locationCity: '',
+      locationState: '',
+      locationCountry: '',
+      userBio: '',
+      facebookURL: '',
+      twitterURL: '',
+      instagramURL: '',
+      linkedinURL: '',
+      snapchatURL: '',
+      websiteURL: '',
+      enableAccount: true,
+      accountCreationDate: 2021-04-20T11:02:51.303Z,
+      slug: 'dftech22',
+      expertRating: null,
+      expertCategories: [Array],
+      expertRates: [Array],
+      expertFocusExpertise: '',
+      endorsements: [Array],
+      myFavorite: [Array],
+      yearsexpertise: '',
+      fbLoginAccessToken: '',
+      jwtLoginAccessToken: '',
+      videoSessionId: '1_MX40NTgwMTI0Mn5-MTYyMDE5MTUzOTYxNn5tbis1ZFFYZisyKzZkay9vUVZ0V01UaWR-fg',
+      audioSessionId: '',
+      archiveSessionId: '',
+      stripeId: '',
+      audioCallAvailability: true,
+      videoSessionAvailability: true,
+      expertSessionAvailability: true,
+      isUserJoinVideoSession: false,
+      isDeleted: false,
+      __v: 0,
+      password: '$2a$05$V/XMjZ.v.u0ou.ONqJXIbOqq0oXcPf0g9t9Hm7kioZ8xlyzXsuLki',
+      email: 'dftech22@gmail.com',
+      createdAt: 2021-05-05T05:11:51.238Z,
+      updatedAt: 2021-05-05T05:15:39.280Z,
+      _id: 60922917c61f832ad9558663
+    },
+    '$init': true
+  }
+]
+[0mGET /api/getExpert/dftech22@gmail.com [36m304 [0m3.483 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m2.734 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m5.110 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m5.129 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m1.218 ms - -[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m0.433 ms - 171[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m2.030 ms - -[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m0.236 ms - 196[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.265 ms - 4[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m1.310 ms - 2[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m2.236 ms - -[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m3.973 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m3.579 ms - -[0m
+[0mGET /api/getExpertsSubCategoryList/58a43993f7cb4411a3c5de8a [36m304 [0m1.283 ms - -[0m
+[0mGET /api/getExpertsSubCategoryList/58a43993f7cb4411a3c5de8a [36m304 [0m1.451 ms - -[0m
+[0mOPTIONS /api/userExpertUpdate [32m200 [0m0.338 ms - 4[0m
+userExpertUpdate controller
+updated successfully
+[0mPOST /api/userExpertUpdate [32m201 [0m6.681 ms - 1255[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.088 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [32m200 [0m6.732 ms - 848[0m
+[0mGET /api/getExpertDetail/dftech22 [32m200 [0m7.604 ms - 848[0m
+[0mGET /api/getComments_changed/dftech22 [33m404 [0m0.565 ms - 171[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m2.913 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m1.546 ms - -[0m
+[0mOPTIONS /api/getEndorsements/ [32m200 [0m0.276 ms - 4[0m
+[0mGET /api/getVideoSession/dftech22@gmail.com/dftech22@gmail.com [33m404 [0m0.206 ms - 196[0m
+[0mPOST /api/getEndorsements/ [32m200 [0m2.380 ms - 2[0m
+expert reviews---
+dftech22
+[0mGET /api/getExpertReviews/dftech22 [36m304 [0m4.106 ms - -[0m
+[0mGET /api/getExpertDetail/dftech22 [36m304 [0m6.695 ms - -[0m
+[0mGET /api/getComments/dftech22 [36m304 [0m2.643 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.630 ms - -[0m
+[0mOPTIONS /api/getMyExpertsListing/ [32m200 [0m0.250 ms - 4[0m
+[0mPOST /api/getMyExpertsListing/ [32m200 [0m1.555 ms - 2[0m
+[0mGET /api/getExpertsListing/graphic-design [36m304 [0m1.560 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/graphic-design [36m304 [0m1.523 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.792 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.792 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.184 ms - 139[0m
+[0mGET /favicon.ico [33m404 [0m0.238 ms - 150[0m
+[0mGET / [33m404 [0m0.179 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m7.635 ms - 7713[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________user disconnected_________________
+[0mPOST /api/v2/ajax [33m404 [0m2.047 ms - 151[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.084 ms - 7713[0m
+_________________user disconnected_________________
+[0mHEAD / [33m404 [0m0.220 ms - 140[0m
+[0mGET /system_api.php [33m404 [0m0.179 ms - 153[0m
+[0mGET /system_api.php [33m404 [0m0.199 ms - 153[0m
+[0mGET /c/version.js [33m404 [0m0.230 ms - 151[0m
+[0mGET /streaming/clients_live.php [33m404 [0m0.182 ms - 165[0m
+[0mGET /stalker_portal/c/version.js [33m404 [0m0.172 ms - 166[0m
+[0mGET /client_area/ [33m404 [0m0.164 ms - 151[0m
+[0mGET /stalker_portal/c/ [33m404 [0m1.089 ms - 156[0m
+[0mGET /stream/live.php [33m404 [0m0.183 ms - 154[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.464 ms - 7713[0m
+[0mGET /api/getExpertsListing/blogging [32m200 [0m10.044 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/blogging [32m200 [0m4.667 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.007 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m2.466 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m2.698 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.406 ms - -[0m
+[0mGET /api/getExpertStoriesBasedOnRole/computer-skills [32m200 [0m4.734 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.100 ms - -[0m
+[0mGET /api/getExpertsListing/violin [32m200 [0m1.872 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/violin [32m200 [0m1.255 ms - 2[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m0.378 ms - 157[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.068 ms - 7713[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m1.498 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m2.242 ms - 974[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.430 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsListing/europe [32m200 [0m2.466 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.874 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.185 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.144 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.320 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.191 ms - 7713[0m
+[0mGET /api/getExpertsListing/biology [32m200 [0m1.536 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/biology [32m200 [0m2.451 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.752 ms - -[0m
+[0mGET /api/getExpertsListing/mixing [32m200 [0m2.689 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/mixing [32m200 [0m2.288 ms - 2[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m1.497 ms - 139[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m1.964 ms - 1829[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m7.574 ms - 974[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.761 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [32m200 [0m2.843 ms - 990[0m
+[0mGET / [33m404 [0m0.322 ms - 139[0m
+[0mGET / [33m404 [0m0.221 ms - 139[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m2.267 ms - 157[0m
+[0mGET / [33m404 [0m0.189 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.783 ms - 7713[0m
+[0mGET /api/getExpertsListing/topRated/engineering [32m200 [0m3.281 ms - 2[0m
+[0mGET /api/getExpertsListing/engineering [32m200 [0m7.480 ms - 2[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.012 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m12.559 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.951 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.341 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.223 ms - 139[0m
+[0mGET / [33m404 [0m0.169 ms - 139[0m
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.228 ms - 188[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.664 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m7.003 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m6.552 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.707 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.861 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.882 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.346 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.801 ms - 7713[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.722 ms - -[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.959 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.366 ms - 139[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m0.985 ms - 157[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.582 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.160 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.256 ms - 139[0m
+[0mGET / [33m404 [0m0.174 ms - 139[0m
+[0mGET / [33m404 [0m0.148 ms - 139[0m
+[0mGET /uploads/1537656806428-JimohDamilola_CV.pdf [33m404 [0m0.189 ms - 181[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.421 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.228 ms - 188[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+[0mPOST /api/jsonws/invoke [33m404 [0m0.398 ms - 157[0m
+[0mGET / [33m404 [0m0.287 ms - 139[0m
+[0mGET / [33m404 [0m0.231 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.484 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m8.309 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m13.900 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.779 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m3.036 ms - -[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.686 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m21.364 ms - 7713[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.224 ms - 139[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m1.195 ms - 157[0m
+[0mGET / [33m404 [0m0.324 ms - 139[0m
+[0mGET / [33m404 [0m0.175 ms - 139[0m
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.376 ms - 188[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m1.112 ms - 157[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m15.957 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.360 ms - -[0m
+[0mOPTIONS /api/auth/register [32m200 [0m0.965 ms - 4[0m
+now, send mail
+in send mail
+[0mPOST /api/auth/register [32m200 [0m56.907 ms - 1353[0m
+Message sent to user: 
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /uploads/banner-email.jpg [33m404 [0m0.226 ms - 163[0m
+[0mGET /uploads/banner-email.jpg [33m404 [0m0.154 ms - 163[0m
+[0mGET /uploads/banner-email.jpg [33m404 [0m0.198 ms - 163[0m
+[0mGET /uploads/banner-email.jpg [33m404 [0m0.191 ms - 163[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /uploads/1529095853435-Greg%20Daulton%20Resume.pdf [33m404 [0m0.148 ms - 188[0m
+_________________user disconnected_________________
+[0mGET /uploads/1537656806428-JimohDamilola_CV.pdf [33m404 [0m0.297 ms - 181[0m
+[0mPOST /api/jsonws/invoke [33m404 [0m0.340 ms - 157[0m
+[0mGET / [33m404 [0m0.343 ms - 139[0m
+[0mGET / [33m404 [0m0.143 ms - 139[0m
+[0mGET / [33m404 [0m0.229 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m23.223 ms - -[0m
+[0mOPTIONS /api/auth/login [32m200 [0m1.042 ms - 4[0m
+Password not Matched
+[0mPOST /api/auth/login [33m401 [0m23.809 ms - -[0m
+[0mOPTIONS /api/auth/login [32m200 [0m0.397 ms - 4[0m
+Password not Matched
+[0mPOST /api/auth/login [33m401 [0m12.015 ms - -[0m
+Password not Matched
+[0mPOST /api/auth/login [33m401 [0m11.089 ms - -[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m1.116 ms - 139[0m
+[0mGET / [33m404 [0m0.272 ms - 139[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m3.893 ms - 7713[0m
+[0mGET /api/getExpertsListing/vocal [32m200 [0m6.637 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/vocal [32m200 [0m4.762 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.651 ms - -[0m
+[0mGET /api/getExpertsListing/health-medicine [32m200 [0m3.201 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/health-medicine [32m200 [0m1.615 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.100 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [32m200 [0m5.626 ms - 974[0m
+[0mGET /api/getExpertsListing/accounting [32m200 [0m2.115 ms - 1829[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.482 ms - -[0m
+[0mGET /api/getExpertsListing/topRated/accounting [36m304 [0m2.406 ms - -[0m
+[0mGET /api/getExpertsListing/accounting [36m304 [0m1.443 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.971 ms - -[0m
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.574 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertDetail/Sanjay-Dhiman [36m304 [0m2.459 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.812 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.830 ms - -[0m
+_________________user disconnected_________________
+[0mGET / [33m404 [0m0.266 ms - 139[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.993 ms - -[0m
+[0mGET /api/getExpertStoriesBasedOnRole/academic-tutoring [32m200 [0m3.479 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.001 ms - -[0m
+[0mGET /api/getExpertStoriesBasedOnRole/academic-advising-career-advice [32m200 [0m1.215 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.977 ms - -[0m
+[0mGET /api/getExpertsListing/investments [32m200 [0m1.503 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/investments [32m200 [0m1.808 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.977 ms - -[0m
+[0mGET /api/getExpertsListing/french [32m200 [0m1.568 ms - 978[0m
+[0mGET /api/getExpertsListing/topRated/french [32m200 [0m1.748 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m3.391 ms - -[0m
+[0mGET /api/getExpertDetail/viveksingh101994-sing [32m200 [0m4.292 ms - 924[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m1.785 ms - -[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.872 ms - 7713[0m
+[0mGET / [33m404 [0m0.224 ms - 139[0m
+_________________user disconnected_________________
+Password not Matched
+[0mPOST /api/auth/login [33m401 [0m12.169 ms - -[0m
+Password not Matched
+[0mPOST /api/auth/login [33m401 [0m11.107 ms - -[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.387 ms - -[0m
+[0mGET /api/getExpertsListing/europe [32m200 [0m1.547 ms - 2[0m
+[0mGET /api/getExpertsListing/topRated/europe [32m200 [0m1.886 ms - 2[0m
+[0mGET /api/getExpertsCategoryList [36m304 [0m5.479 ms - -[0m
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m4.050 ms - -[0m
+_________________a user connected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m23.261 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m1.700 ms - 7713[0m
+_________________user disconnected_________________
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [32m200 [0m2.034 ms - 7713[0m
+_________________user disconnected_________________
+_________________a user connected_________________
+[0mGET /api/getExpertsCategoryList [36m304 [0m2.074 ms - -[0m
